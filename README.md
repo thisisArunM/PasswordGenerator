@@ -1,4 +1,4 @@
-🔐 Advanced Password Generator
+🔐 Advanced Password Generator : 
 Welcome to the Advanced Password Generator! This powerful tool creates strong, secure passwords tailored to your specific needs. Whether you're looking for a quick password for a new account or a robust key for sensitive information, this generator has you covered.
 
 🌟 Features
